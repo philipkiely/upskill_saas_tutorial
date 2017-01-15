@@ -69,3 +69,14 @@ h1, h2, h3 {
 .alert-notice {
     display: none;
 }
+.btn-primary {
+    background: #800000;
+    border: 1px solid black;
+}
+.btn-primary:hover {
+    background: #800000;
+    opacity: 0.5;
+}
+.home-signup-links {
+    margin-top: 30px;
+}
